@@ -1,7 +1,7 @@
-# Lab02 Linux Network Namespace and Virtual Switch
+# Lab01 Linux Network Namespace and Virtual Switch
 
 Table of Contents:
-- [Lab02 Linux Network Namespace and Virtual Switch](#lab02-linux-network-namespace-and-virtual-switch)
+- [Lab01 Linux Network Namespace and Virtual Switch](#lab01-linux-network-namespace-and-virtual-switch)
   - [Requirements](#requirements)
   - [Linux Network Namespace](#linux-network-namespace)
     - [Introduction](#introduction)
