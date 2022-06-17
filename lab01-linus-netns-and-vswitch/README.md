@@ -1,6 +1,6 @@
 # Lab01 Linux Network Namespace and Virtual Switch
 
-This activity is recorded and can be re-watched on (YouTube's video)[https://www.youtube.com/watch?v=UeKOZDiim5U].
+This activity is recorded and can be re-watched on ![YouTube's video](https://www.youtube.com/watch?v=UeKOZDiim5U).
 
 Table of Contents:
 - [Lab01 Linux Network Namespace and Virtual Switch](#lab01-linux-network-namespace-and-virtual-switch)
