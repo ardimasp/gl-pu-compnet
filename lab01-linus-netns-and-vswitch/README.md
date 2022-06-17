@@ -214,4 +214,29 @@ However, we can't access its shell.
 
 ## Homeworks
 
-To be added later upon discussions with Pak Ade
+Create the topology depicted below and make sure that all namespaces can ping the other namespaces.
+
+```
+ 
+          +------------+                    +-------------+
+          |            |   192.168.3.0/24   |             |
+          |          +-+-+                +-+-+           |
+          |    white |   | +--------------|   |     blue  |
+          |          +-+-+                +-+-+           |
+          |   +----+     |.2              .1|    +----+   |
+          +----    ----+                    +-----    ----+
+              |    |.1                           |    |.2
+              +--+-+                             +--+-+
+                 |                                  |
+192.168.4.0/24   |                                  |  192.168.2.0/24
+                 |                                  |
+              +--+-+                             +--+-+
+              |    |.2                           |    |.1
+          +---+    +---+                    +----+    +---+
+          |   +----+   |   192.168.1.0/24   |    +----+   |
+          |          +-+-+                +-+-+           |
+          |    red   | | +----------------+ | |  green    |
+          |          +-+-+                +-+-+           |
+          |            |.1                .2|             |
+          +------------+                    +-------------+
+```
