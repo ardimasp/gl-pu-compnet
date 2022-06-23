@@ -10,4 +10,4 @@
 
 ## Discussions
 
-Please refer to the slides and video (to be uploaded later)
+Please refer to the [slides](./GL-Pertamina-Univ-VirtualSwitch-Openflow-OVS-mininet.pdf) and video (to be uploaded later)
